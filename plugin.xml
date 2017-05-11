@@ -114,7 +114,7 @@
           </feature>
         </config-file>
 
-	<framework src="TwilioVoiceClient" type="podspec" spec="=2.0.0-beta7" />
+	<framework src="TwilioVoiceClient" type="podspec" spec="~2.0.0" />
 
 
         <!-- Add support for background VOIP and audio to the plist -->
