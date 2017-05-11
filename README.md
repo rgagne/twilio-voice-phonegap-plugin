@@ -1,6 +1,8 @@
 # twilio-voice-phonegap-plugin
 PhoneGap/Cordova Plugin for Twilio Programmable Voice SDK
 
+Forked to provide a self contained version that works with Adobe Build
+
 on NPM:
 https://www.npmjs.com/package/twilio-voice-phonegap-plugin
 
