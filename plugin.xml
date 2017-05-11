@@ -114,7 +114,7 @@
           </feature>
         </config-file>
 
-        <framework src="TwilioVoiceClient" type="podspec" spec="~> 2.0.0-beta7" />
+        <framework src="TwilioVoice" type="podspec" spec="=2.0.0-beta8" />
         <!--<framework src="TwilioVoice.framework" custom="true" />
         <header-file target-dir="TwilioVoice.framework/Headers" src="src/ios/TwilioVoice.framework/Headers/TVOCall.h"/>
         <header-file target-dir="TwilioVoice.framework/Headers" src="src/ios/TwilioVoice.framework/Headers/TVOCallDelegate.h"/>
